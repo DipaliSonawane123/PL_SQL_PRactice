@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[file:/C:/Users/Admin/AppData/Roaming/SQL Developer/starPattern.sql]]></sql>
+		<connection><![CDATA[testdb]]></connection>
+		<timestamp><![CDATA[1669728701817]]></timestamp>
+		<type><![CDATA[Script]]></type>
+		<executed><![CDATA[21]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

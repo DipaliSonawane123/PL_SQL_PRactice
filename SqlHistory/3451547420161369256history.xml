@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[file:/C:/Users/Admin/SQLDeveloper/PL-SQL-Practice/GCD_Of_TwoNumbers.sql]]></sql>
+		<connection><![CDATA[testdb]]></connection>
+		<timestamp><![CDATA[1669732412308]]></timestamp>
+		<type><![CDATA[Script]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

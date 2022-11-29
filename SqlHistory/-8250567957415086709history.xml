@@ -1,0 +1,21 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[DECLARE 
+   a integer := 10; 
+   b integer := 20; 
+   c integer; 
+   f real; 
+BEGIN 
+   c := a + b; 
+   dbms_output.put_line('Value of c: ' || c); 
+   f := 70.0/3.0; 
+   dbms_output.put_line('Value of f: ' || f); 
+END;/]]></sql>
+		<connection><![CDATA[testdb]]></connection>
+		<timestamp><![CDATA[1667237158254]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[6]]></executed>
+		<execTime><![CDATA[0.006]]></execTime>
+	</historyItem>
+</history>

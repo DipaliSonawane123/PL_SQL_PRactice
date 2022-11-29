@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[file:/C:/Users/Admin/SQLDeveloper/PL-SQL-Practice/StarPatternRightSide.sql]]></sql>
+		<connection><![CDATA[testdb]]></connection>
+		<timestamp><![CDATA[1669732027091]]></timestamp>
+		<type><![CDATA[Script]]></type>
+		<executed><![CDATA[2]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

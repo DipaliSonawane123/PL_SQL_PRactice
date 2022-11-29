@@ -1,0 +1,31 @@
+
+SET SERVEROUTPUT ON;
+DECLARE
+
+	-- declare variable num1, num2 and t
+	-- and these three variables datatype are integer
+	num1 INTEGER;
+	num2 INTEGER;
+	t INTEGER;
+BEGIN
+	num1 := 8;
+
+	num2 := 48;
+
+	WHILE MOD(num2, num1) != 0 LOOP
+		t := MOD(num2, num1);
+
+		num2 := num1;
+
+		num1 := t;
+	END LOOP;
+
+	dbms_output.Put_line('GCD of '
+						||num1
+						||' and '
+						||num2
+						||' is '
+						||num1);
+END;
+
+-- Program End

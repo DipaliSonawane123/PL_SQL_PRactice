@@ -3,7 +3,7 @@ SET SERVEROUTPUT ON;
 create table BankAccount
 (customerName varchar(50), bankAccountNumber INTEGER);
 
-insert into bankaccount values('Santhosh',77653456);
+insert into bankaccount values('Dipali',77653456);
 
 --Named block
 --Insert Data
